@@ -1,1 +1,1 @@
-<img src="https://giphy.com/embed/gqS7h0cShpGZa" alt="lala the penguin" title="lala the penguin" width="500" align="center"/>
+<img src="https://media3.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif?cid=ecf05e47yzelyik3kaihvmi91hjd6vkgurzo11i01515thdy&ep=v1_gifs_search&rid=giphy.gif&ct=g" title="lala the penguin" width="500" align="center"/>
