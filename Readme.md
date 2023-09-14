@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/gqS7h0cShpGZa" width="351" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-gi-gif-gqS7h0cShpGZa">via GIPHY</a></p>
+<img src="https://giphy.com/embed/gqS7h0cShpGZa" alt="lala the penguin" title="lala the penguin" width="500" align="center"/>
