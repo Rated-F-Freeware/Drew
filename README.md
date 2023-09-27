@@ -10,6 +10,6 @@ personal projects with it. I have also learned python for my time with Nasa Asce
 
 
 I also enjoy watching some One Piece while programming. It's my pride and joy. Currently creating some projects that'll 
-be open to the public. Hopefully some people find some use for them like I do.
+be open to the public. Hopefully some people will find some use for them like I do.
 
 ![Luffy_fire](https://github.com/Rated-F-Freeware/Drew/assets/69709146/11ce93db-1c99-4871-9aab-eed25fcde5a2)
